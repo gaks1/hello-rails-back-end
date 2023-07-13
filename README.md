@@ -50,7 +50,7 @@
 - ** greetings**: generates a random greeting from the database
 
 ## Front End Web APP
-> Use this as the front end of this app made using [reat](https://github.com/gaks1/hello-react-front-end)
+> Use this as the front end of this app made using [react](https://github.com/gaks1/hello-react-front-end)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
