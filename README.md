@@ -26,6 +26,11 @@
 # 📖 [Recipe App] <a name="about-project"></a>
 
 **Rails Hello App API** is a api that has an end point that gives a random greeting
+
+## Front End Web APP
+> Use this as the front end of this app made using [react](https://github.com/gaks1/hello-react-front-end)
+
+
 ## 🛠️ Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -48,10 +53,6 @@
 
 ### Key Features <a name="key-features"></a>
 - ** greetings**: generates a random greeting from the database
-
-## Front End Web APP
-> Use this as the front end of this app made using [react](https://github.com/gaks1/hello-react-front-end)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
